@@ -1,6 +1,6 @@
 {
   "mode": "hourly_public_data",
-  "data_updated_at": "2026-11-14T23:48:42.970905+09:00",
+  "data_updated_at": "2026-11-15T00:45:09.672326+09:00",
   "market": [
     {
       "id": "UST2Y",
@@ -10,7 +10,7 @@
       "change": 0.02,
       "change_unit": "pp",
       "as_of": "2026-11-13",
-      "fetched_at": "2026-11-14T23:48:42.970905+09:00",
+      "fetched_at": "2026-11-15T00:45:09.672326+09:00",
       "price_type": "official_daily_par_yield",
       "source": "U.S. Department of the Treasury",
       "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve",
@@ -24,7 +24,7 @@
       "change": 0.05,
       "change_unit": "pp",
       "as_of": "2026-11-13",
-      "fetched_at": "2026-11-14T23:48:42.970905+09:00",
+      "fetched_at": "2026-11-15T00:45:09.672326+09:00",
       "price_type": "official_daily_par_yield",
       "source": "U.S. Department of the Treasury",
       "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve",
@@ -178,31 +178,31 @@
         "id": "bonds-3"
       },
       {
+        "title": "\"국고채 금리, 연내 저점 찍고 반등…추격 매수 신중해야\"",
+        "publisher": "연합인포맥스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wSGNja2FhMWwzQ0REaHQ0a0Fqb1pTaU5LRVFnYXRKU0RtekxoN0Yxc2locHNuMlpxTEtaX0pxTnBKQVA5c3dSaDZ2X29aYlhraDVZcU0ydmtaeHdCUzZlbnV6ckpORmlrSmtPOVhHaG3SAXRBVV95cUxOU0pyaFZ3TEFqX3RZejU1enlMLTNFOFFvUXAwU3pTQ1U3V0dzd3VrcTh3dUI4Tl9XbVNrVzc2TURNdjB4UDhrU1E1UkhDMmhvazE4cEhzTVpSeVgwekdiUzFwekRabng4LWJYYkxDcEp6WEZ3OA?oc=5",
+        "published_at": "2026-11-13T22:20:05+00:00",
+        "id": "bonds-4"
+      },
+      {
         "title": "[뉴욕마켓워치] 美 물가 경계 속 엔비디아 후폭풍…주식·채권 혼조·달러↑",
         "publisher": "KB Think",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YYlY5T3ZoVDlPYjF1aWdfRnRTVjBSUV9YR1R5VmRFTnhfeUZHTFZycEtNQlZ1Q01NcEpiZFBjMTJsR3BlNksxeEozLUFaVjJHTWE3dVdxNmpXc3A3N0FrdGowWFI4dEZTa0NYc2REQWNxdw?oc=5",
         "published_at": "2026-11-13T22:06:50+00:00",
-        "id": "bonds-4"
+        "id": "bonds-5"
       },
       {
         "title": "[11.14(토) 한국장 전망] 미 국채 급등·KORU -5.5% 코스피 하락 압력",
         "publisher": "주달",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZSnl3TlZFUVRORDJCNWNPVFo1TUNtcTBYNE9SSzYzXzlnUTdJSGVabWdTYlNSVHpjOUdoZEp0MW9lTjFrbjMwMU9HWERIc09xT2IwWXZ1MWtNeGZCWHpvSmdHN3FOM0IyRjFDcGNvNjdMd3JtN1E?oc=5",
         "published_at": "2026-11-13T21:10:28+00:00",
-        "id": "bonds-5"
+        "id": "bonds-6"
       },
       {
         "title": "美 국채가, 여전히 높은 PPI에 낙폭 확대…'베어 스팁'",
         "publisher": "연합인포맥스",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rNTlLU2hQd1V2V2phel9nSEwxV2Mza1o3N3l2R2YxTFRBT2tVa19PWWNubmhwY0pIX0pQZVFQaWZrUHBYVFdNZ051NjZaNng1cEt3TXc3bUVtWmFkT3NQbm9Dak5rV1k2a09QWWtVbzA?oc=5",
         "published_at": "2026-11-13T16:56:27+00:00",
-        "id": "bonds-6"
-      },
-      {
-        "title": "미국 달러는 약 19개월 만에 최고 수준을 기록했습니다.",
-        "publisher": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GNFhVQkxBbVR2YVRXSExKbEZ4dndmaWxod0kwM0JtSjZ5NUt4b3EyNGJCQ1A3S0F4MHJacTdWLXp5MTdFcWlCaTJ3MHU5eDdBYW1mLUNfdm1FTWlPaUFhbGtFeE10UkJw?oc=5",
-        "published_at": "2026-11-13T13:06:06+00:00",
         "id": "bonds-7"
       }
     ]
